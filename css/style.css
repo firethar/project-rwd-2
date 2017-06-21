@@ -317,6 +317,10 @@ body {
 #everywhere ul li.active a {
   color: #000000;
 }
+#everywhere ul li:last-child a:hover {
+  color: #1ed760;
+  text-decoration: underline;
+}
 #everywhere .device-thumb img {
   display: none;
 }
