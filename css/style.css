@@ -305,7 +305,9 @@ body {
 #everywhere ul li.active a {
   color: #000000;
 }
-
+#everywhere .device-thumb img {
+  display: none;
+}
 
 #screens {
   padding: 310px 0 150px;
@@ -492,6 +494,7 @@ body {
     width: 100%;
   }
   #everywhere .device-thumb img {
+    display: block;
     max-width: 100%;
     margin: 0 auto;
   }
