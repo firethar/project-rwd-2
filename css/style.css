@@ -363,12 +363,11 @@ body {
   background-size: 121px 36px;
 }
 #contact .spotify-ico:hover {
-  background: url(../img/spotify-ico-hover.png) center center no-repeat;
+  /*background: url(../img/spotify-ico-hover.png) center center no-repeat;*/
 }
 .bottom-nav {
   text-align: center;
   display: inline-block;
-  /*width: 610px;*/
   height: 36px;
   margin: 0 auto;
   padding: 0 30px;
